@@ -12,7 +12,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - **Contact Form**: A contact form that sends emails directly to me via EmailJS, with Toastify notifications to confirm when the email is sent.
 - **Resume View**: You can view my resume directly on the website.
 - **Resume Download**: Option to download my resume.
-
+- **EmailJS**: anyone contact through contact form.
 ## Technologies Used
 
 - **HTML/CSS**: For structuring and styling the webpage.
